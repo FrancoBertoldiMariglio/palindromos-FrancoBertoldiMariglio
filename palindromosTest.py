@@ -10,4 +10,4 @@ class TestPalidnromos(unittest.TestCase):
         self.assertTrue(palindromo("neuquen"))
 
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main() 
